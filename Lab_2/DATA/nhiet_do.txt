@@ -1,0 +1,5 @@
+nhiệt độ cao nhất trong tháng là : 29.28
+ngày có nhiệt độ cao nhất là ngày thứ : 29
+nhiệt độ ngày thấp nhất trong tháng là : 10.04
+ngày có nhiệt độ thấp nhất là : 10
+nhiệt độ trung bình trong tháng là: 19.14
